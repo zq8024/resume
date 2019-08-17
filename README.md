@@ -1,39 +1,50 @@
-## Welcome to GitHub Pages
+## 个人简介 :point_down:
 
-You can use the [editor on GitHub](https://github.com/zq8024/resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+作为一名全栈开发者，一直从事通用产品的研发工作，对前端后端开发都非常熟悉，熟悉面向对象的设计和开发方法，熟悉常用的软件设计模式，能够熟练阅读英文文档，思维严谨，喜欢探索新技术，能够根据公司需要不断学习新的技能, 主动提升自己的能力，经常对自己开发的模块进行反思和重构，对代码质量精益求精。
+#### 主要的技术栈包括: :point_down:
+- 熟悉asp.net， asp.net mvc 、 c#，了解java开发，
+- 熟悉sql server，oracle、mysql等数据库，
+- 熟悉html、javascript、css等web开发技术，
+- 熟悉angular + ionic手机混合app开发，
+- 熟练jquery、angular等常用前端框架和类库，对vue和react有一定的了解，
+- 熟练使用typescript、nodejs、less、saas、webpack等前端技术进行项目开发
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 工作经验
 
-### Markdown
+2012/9-至今 | 广东汉佳信息技术有限公司  | 高级软件工程师|研发部
+> 作为高级开发工程师，负责公司快速开发平台的研发，开发了工作流引擎和基于angular 和ionic的手机app运行平台，为公司项目的快速实施提供强大平台支持。
+工作内容主要包括：
+1. 设计并开发了工作流引擎、图形化的流程设计器和流程测试工具，流程引擎支持人工审核、条件流转、并行、等待活动、自动活动、逐级回退、回退到任意环节、回退后重发、跳转、拆单等有中国特色的流程应用, 工作流引擎在设计理念和功能方面经过三次重大的重构，使其更好的服务项目。
+2. 使用angular + ionic开发手机app运行平台, 支持android、ios和微信公众号。
+3. 通用的接口配置工具，只需配置就可以进行接口调用和调试，极大的减轻了接口的开发工作，提高了接口联调的效率。
+4. 负责公司前端整体架构，开发前端多端统一开发框架，支持web和手机平台，一次开发可同时适配angular、vue、react三大框架，通过编译工具将源代码编译成可以在不同端（H5、微信小程序、微信公众号、android和ios混合app）运行的代码。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2006/8-2012/8 | 广州德捷科技有限公司 | .NET高级开发工程师
+> 使用c# + asp.net + sql server开发基于BS架构的项目资金预算、计划管理和跟踪的大型项目管理软件，目标客户主要是美国的政府部门和大型企业，如FedEx联邦快递、玛氏（Mars）等，主要负责工作流模块和工作流设计器，另外作为主要开发人员参与开发动态表单、表单编辑器、自定义报表、系统基础模块和系统大部分的业务模块，参与了大部分重要客户实施。
+主要设计和开发的模块：
+1. 通用工作流审核模块
+通用的工作流审核模块，可以对任意对象进行审核和对工作流实例监控，包括流程引擎、实例状态监控（实例回退、暂停、恢复、中止、会签）和审核流程预测等，主要使用的技术包括Workflow foundation。
+2. 工作流流程设计器
+开发运行在网页上的工作流设计器，设计器以ActiveX控件方式运行于网页上，主要使用技术包括Workflow foundation、WinForm、Web Service和ActiveX控件开发。
+3. Word模板插件
+开发word插件，使用户可以在word中设计相关文档的模板，在运行时将相关的信息填充到word模板中，生成最终用户希望的文档，主要使用技术包括VSTO和Office OpenXml。
+4. 消息模板设计器
+可视化的消息模板设计器，主要使用的技术包括WinForm技术和正则表达式。
+5. 动态表单设计器及相关组件
+开发表单设计器，用户可以在网页上直接完成表单设计工作，主要使用的技术是JavaScript，使用jQuery和jQuery UI类库。
 
-#### test for it
+2005/5-2006/7 | 广州广日物流有限公司 | VBA开发
+> 使用VBA在office excel中开发报表，快速生成格式美观可直接打印的每日报表、每日数据统计、周报、月报等，为日常运营提供数据支持。
 
-```markdown
-Syntax highlighted code block
+2003/7-2005/4 | 武汉恩彼生物科技有限公司 | 系统管理员
+1. 负责局域网的维护，建立和维护公司网站。
+2. 使用VB开发信封自动打印软件，极大的方便了公司邮寄内部期刊给客户。
+3. 使用VB开发了销售应收账款管理软件，方便公司领导及时查看跟踪应收账款情况。
 
-# Header 1
-## Header 2
-### Header 3
+### 教育经历
+- 1999/9-2003/6 | 武汉轻工大学 | 动物科学本科
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zq8024/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 相关链接
+* [github简历](https://zq8024.github.io/resume/) https://zq8024.github.io/resume/
+* [cnblogs博客](https://www.cnblogs.com/zq8024) https://www.cnblogs.com/zq8024
