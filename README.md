@@ -1,7 +1,7 @@
-## 个人简介 :point_down:
+## 个人简介 :point_down: 
 
 作为一名全栈开发者，一直从事通用产品的研发工作，对前端后端开发都非常熟悉，熟悉面向对象的设计和开发方法，熟悉常用的软件设计模式，能够熟练阅读英文文档，思维严谨，喜欢探索新技术，能够根据公司需要不断学习新的技能, 主动提升自己的能力，经常对自己开发的模块进行反思和重构，对代码质量精益求精。
-#### 主要的技术栈包括: :point_down:
+#### 主要的技术栈包括: :point_down: 
 - 熟悉asp.net， asp.net mvc 、 c#，了解java开发，
 - 熟悉sql server，oracle、mysql等数据库，
 - 熟悉html、javascript、css等web开发技术，
@@ -42,9 +42,9 @@
 3. 使用VB开发了销售应收账款管理软件，方便公司领导及时查看跟踪应收账款情况。
 
 ### 教育经历
-- 1999/9-2003/6 | 武汉轻工大学 | 动物科学本科
+> 1999/9-2003/6 | 武汉轻工大学 | 动物科学本科
 
 
 ### 相关链接
-* [github简历](https://zq8024.github.io/resume/) https://zq8024.github.io/resume/
-* [cnblogs博客](https://www.cnblogs.com/zq8024) https://www.cnblogs.com/zq8024
+- [github简历](https://zq8024.github.io/resume/) [https://zq8024.github.io/resume/](https://zq8024.github.io/resume/)
+- [cnblogs博客](https://www.cnblogs.com/zq8024) [https://www.cnblogs.com/zq8024](https://www.cnblogs.com/zq8024)
